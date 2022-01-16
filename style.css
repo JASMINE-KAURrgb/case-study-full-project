@@ -1,0 +1,52 @@
+h4{
+    font-family:fantasy!important;
+    font-size: 30px !important;
+}
+h3{
+    font-family:fantasy !important;
+    font-size: 30px !important;
+}
+p{
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+}
+b{
+    color: aquamarine;
+    background-color: darkslategrey;
+    font-size: 22px;
+}
+h5{
+    font-size: 22px !important;
+    font-family:serif;
+}
+h2{
+    font-size: 25px;
+    color: purple;
+    font-family: monospace;
+}
+li{
+    font-size: 22px !important;
+    color: aquamarine;
+    background-image: linear-gradient(limegreen,yellow);
+}
+.test_image_and_result{
+    background-image: linear-gradient(deeppink,lightblue);
+}
+body{
+    background-image: linear-gradient(royalblue,deeppink);
+}
+#google{
+    height: 150;
+    width: 150;
+}
+h6{
+    font-size: 22px;
+    color:black;
+    background-color: coral;
+    border: solid purple;
+    border-radius: 20px;
+    box-shadow: blue;
+    font-family: cursive;
+
+}
